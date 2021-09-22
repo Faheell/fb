@@ -1,0 +1,109 @@
+body{
+  margin: 0;
+  background-color:#E8F6EF;
+}
+.fb{
+position:absolute;
+top: 200px;
+left:750px;
+line-height:48px;
+}
+h1{
+  font-family:Helvetica;
+  font-size:100px;
+}
+h2{
+  font-size: 45px;
+  font-family:sans-serif;
+}
+.formbase{
+  background-color:white;
+  height: 530px;
+  width: 550px;
+  display:inline-block;
+  position:absolute;
+  top: 120px;
+  left:100px;
+  bottom: 100px;
+  border-radius: 9px;
+
+}
+.fbform{
+  position: absolute;
+  top: 20px;
+  left: 50px;
+}
+input{
+  position: relative;
+  background-color: white;
+  text-align:left;
+  font-size: 20px;
+  left:25px;
+  top:15px;
+  padding-left: 10px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius:6px;
+  line-height: 2px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+.login{
+      position: relative;
+      background-color:green;
+      text-align: center;
+      text-decoration-color:white;
+      border: none;
+      border-radius: 6px;
+      font-size: 20px;
+      line-height: 48px;
+      padding: 10px 16px 10px 16px;
+      width: 400px;
+      left:12px;
+      top: 20px;
+      margin-left: 15px;
+   }
+
+.create{
+    position:absolute;
+    margin-top: 40px;
+    text-decoration: underline;
+}
+.cr{
+    left: 40px;
+    position:absolute;
+    margin-top: 40px;
+}
+
+.new{
+  background-color:crimson;
+  text-decoration-color: white;
+  position: relative;
+  text-align: center;
+  left:60px;
+  top: 20px;
+  font-size: 30px;
+  border-radius:6px;
+  width: 332px;
+  height:50px;
+}
+h5{
+  position: relative;
+  text-align: center;
+  font-size: 25px;
+  top: 15px;
+  left: 20px;
+}
+a{
+  position: absolute;
+  font-size: 25px;
+  top: 683px;
+  left: 150px;
+}
+.para{
+  position: absolute;
+  font-size: 25px;
+  top:660px;
+  left:300px;
+}
